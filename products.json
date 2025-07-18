@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatillas deportivas",
+    "description": "Zapatillas cómodas para correr",
+    "price": 12000,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": "Remera básica",
+    "description": "Remera 100% algodón",
+    "price": 4500,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Zapatilla roja",
+    "description": "Zapatilla de river",
+    "price": 139992,
+    "stock": 203
+  }
+]

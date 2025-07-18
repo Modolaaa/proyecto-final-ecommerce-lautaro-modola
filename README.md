@@ -165,7 +165,7 @@ const useFirestore = true;
 ## 🚀 Despliegue (Vercel)
 
 URL del entorno de producción:  
-👉 `https://api-ecommerce-lautaromodola.vercel.app` 
+👉 `https://api-ecommerce-lautaromodola2.vercel.app/` 
 
 ---
 

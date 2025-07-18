@@ -14,6 +14,11 @@ app.use('/api/products', productRoutes);
 const authRoutes = require('./routes/authRoutes');
 app.use('/api/auth', authRoutes);
 
+//Mensaje de Bienvenida
+app.get('/', (req, res) => {
+  res.send('👋 Bienvenido a la API E-Commerce de Lautaro Modola');
+});
+
 // Middleware de errores genérico (por ahora simple)
 app.use((err, req, res, next) => {
   console.error(err.stack);

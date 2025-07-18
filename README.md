@@ -165,7 +165,7 @@ const useFirestore = true;
 ## 🚀 Despliegue (Vercel)
 
 URL del entorno de producción:  
-👉 `https://api-ecommerce-nombreapellido.up.railway.app` 
+👉 `https://api-ecommerce-lautaromodola.up.railway.app` 
 
 ---
 
